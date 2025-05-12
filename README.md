@@ -1,1 +1,2 @@
-# ESGAR
+# Enhanced Skeleton-Based Group Activity Recognition through Spatio-Temporal Graph Convolution with Cross-Dimensional Attention
+Code will be released soon...
